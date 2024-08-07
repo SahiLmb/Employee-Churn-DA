@@ -41,7 +41,7 @@ The company is experiencing issues with retaining employees. The objective is to
    - Use the validated ML model to predict which employees are at risk of leaving.
   
 ## Dashboard Wireframe
-<img src="
+<img src="workflow.jpg"/>
 
 ## Key Questions and Insights
 
